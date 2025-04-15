@@ -29,6 +29,17 @@ body {
 
 .green {
     background-color: #63aac0;
-}   
+} 
 
+.btn:hover {
+    cursor:pointer
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash {
+    background-color: green;
+}
 
